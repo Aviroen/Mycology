@@ -8,49 +8,6 @@
     }
   },
   "DynamicTokens": [
-    {
-      "Name": "Seeds",
-      "When": {
-        "Trypophobia Toggle": true,
-        "Query: {{Random:{{Range:1,5}}|key=5}} > 1": true
-      },
-      "Value": "Stinkhorn"
-    },
-    {
-      "Name": "Seeds",
-      "When": {
-        "Query: {{Random:{{Range:1,5}}|key=5}} > 1": true
-      },
-      "Value": "Panellus"
-    },
-    {
-      "Name": "Seeds",
-      "When": {
-        "Query: {{Random:{{Range:1,5}}|key=5}} > 1": true
-      },
-      "Value": "Mycena"
-    },
-    {
-      "Name": "Seeds",
-      "When": {
-        "Query: {{Random:{{Range:1,5}}|key=5}} > 1": true
-      },
-      "Value": "Rhodotus"
-    },
-    {
-      "Name": "Seeds",
-      "When": {
-        "Query: {{Random:{{Range:1,5}}|key=5}} > 1": true
-      },
-      "Value": "Lactarius"
-    },
-    {
-      "Name": "Seeds",
-      "When": {
-        "Query: {{Random:{{Range:1,5}}|key=5}} > 1": true
-      },
-      "Value": "Marasmius"
-    }
   ],
   "Changes": [
     {

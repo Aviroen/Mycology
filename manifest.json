@@ -6,10 +6,14 @@
     "UniqueID": "Aviroen.Mycology",
     "UpdateKeys": [ "Nexus:27436" ],
     "Dependencies": [
-        {
-            "UniqueID": "EnderTedi.TreeSizeFramework",
-            "IsRequired": true
-        }
+      {
+        "UniqueID": "EnderTedi.TreeSizeFramework",
+        "IsRequired": true
+      },
+      {
+        "UniqueID": "Aviroen.RoenCore",
+        "IsRequired": false
+      }
     ],
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher"
